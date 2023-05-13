@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Song+Myung&display=swap');
+
+.logo{
+    color: rgb(0, 190, 60);
+    font-family: 'Concert One', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+.exp{
+    text-align: center;
+    font-size: 25px;
+}
+.button{
+    text-align: center;
+}
+.caf{
+    margin-top: 90px;
+    width: 350px;
+    height: 90px;
+    font-size: 25px;
+}
+.tum{
+    margin-top: 50px;
+    width: 350px;
+    height: 90px;
+    font-size: 25px;
+}
+.menu{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 15px;
+    border-top: solid 2px;
+    text-align: center;
+}
+.profileimg{
+    height: 150px;
+    padding: 40px;
+}
+.profile{
+    border-bottom: solid 2px;
+}
+.profilemenu{
+    border-bottom: solid 2px;
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
+}
+.point{
+    text-align: center;
+    padding: 15px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.sbutton{
+    text-align: center;
+    border-bottom: solid 2px;
+    padding-bottom: 30px;
+}
+.shopButton{
+    text-align: center;
+    margin: 15px;
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+}
+.shopMenu{
+    border-bottom: solid 2px;
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+}
